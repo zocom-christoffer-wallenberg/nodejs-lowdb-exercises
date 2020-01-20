@@ -2,6 +2,8 @@
 
 ## Instruktioner
 
+Dokumentation för Lowdb hittar ni [här](https://github.com/typicode/lowdb).
+
 1. Installera lowdb med **npm install lowdb (--save om du vill spara den i din package.json)** samt **express**.
 
 2. Skapa en ny databas som heter **names** och sedan följande:
